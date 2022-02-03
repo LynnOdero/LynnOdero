@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @LynnOdero
-- 👀 I’m interested in TECH
-- 🌱 I’m currently learning ...SELENIUM/JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...oderolynn@gmail.com
 
 <!---
 LynnOdero/LynnOdero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
